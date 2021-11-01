@@ -1,2 +1,5 @@
 001
 002
+import 'aaa' from './a.js'
+import 'bbb' from './b.js'
+003
