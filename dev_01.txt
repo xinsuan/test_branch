@@ -4,3 +4,4 @@ import 'aaa' from './a.js'
 import 'bbb' from './b.js'
 003
 dev
+004
